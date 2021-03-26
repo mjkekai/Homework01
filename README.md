@@ -12,6 +12,7 @@ This homeworks really through me off and i felt like i was over thinking alot of
  https://www.freecodecamp.org/learn/responsive-web-design/#applied-accessibility 
  https://www.semrush.com/blog/semantic-html5-guide/
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 ## Features
 By clicking on the links at the top of the page it will bring you to the correlating section on the same webpage. 
