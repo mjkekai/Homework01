@@ -1,27 +1,17 @@
 # <Homework 01>
 ## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-For homework01, we were tasked to refactor existing code to make it more symantic and accessible. 
 
-## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+For homework01, we were tasked to refactor existing code to make it more symantic and accessible. I first added alt tages to all the images and i then removed some of the div tags and replaced them with tags like section, aside, article, and nav. BVy removing the div tags it makes the html file more accessible and symantic. 
+
+This homeworks really through me off and i felt like i was over thinking alot of the tags. I had to use google and watch tutorials to figure out exactly what the homeworks was asking. I am still not sure if it is correct but i am going to continue to work on symantic html and what tags make a website for accessible. 
 
 
-## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+
+
 ## Credits
-List your collaborators, if any, with links to their GitHub profiles.
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well.
-
+ https://www.freecodecamp.org/learn/responsive-web-design/#applied-accessibility 
+ https://www.semrush.com/blog/semantic-html5-guide/
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 ## Features
-If your project has a lot of features, list them here.
+By clicking on the links at the top of the page it will bring you to the correlating section on the same webpage. 
